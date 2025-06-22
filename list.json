@@ -287,6 +287,13 @@
       "url": "https://github.com/pot-app/pot-app-collection-plugin-shanbay",
       "offical": true,
       "illegal": false
+    },{
+      "name": "pot-app-collection-plugin-maimemo",
+      "desc_en": "Maimemo collection plugin",
+      "desc_zh": "墨墨背单词生词本插件",
+      "url": "https://github.com/MahoushoujoMadoka/pot-app-collection-plugin-maimemo",
+      "offical": false,
+      "illegal": false
     }
   ]
 }
